@@ -17,7 +17,7 @@ I'm an enthusiastic final-year BTech CSE student with a passion for learning new
 - **BTech in Computer Science**
   Parul University, Vadodara, Gujarat
   Current CGPA: 7.66
-  2020 - 2024 (Pursuing)
+  2021 - 2025 (Pursuing)
 
 - **12th Grade**
   KS Lodha Public School, Pali, Rajasthan (CBSE)
