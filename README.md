@@ -5,10 +5,16 @@ I'm an enthusiastic final-year BTech CSE student with a passion for learning new
 
 ## 🛠 Skills
 - Java
+- Python
+- Machine Learning
 - Android Development
 - SQL (Structure Query Language)
 - DSA (Data Structures and Algorithms)
 - OOPS (Object-Oriented Programming)
+- pandas
+- numpy
+- matplotlib
+- seaborn 
 - Time Management
 - Leadership
 - Teamwork
