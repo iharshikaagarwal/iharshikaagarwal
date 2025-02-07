@@ -53,7 +53,6 @@ I'm an enthusiastic final-year BTech CSE student with a passion for learning new
 
 ## 📫 How to reach me
 - Email: iharshikaagarwal@gmail.com
-- Phone: +91 9352636024
 - LinkedIn: [harshikaagarwal88](https://www.linkedin.com/in/harshikaagarwal88)
 - Location: Khodiyar Nagar, Vadodara
 
