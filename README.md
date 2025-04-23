@@ -1,7 +1,8 @@
 # Harshika Agarwal
 
 ## 👩‍💻 About Me
-I'm an enthusiastic final-year BTech CSE student with a passion for learning new technologies. Currently pursuing my degree at Parul University in Vadodara, Gujarat, I'm eager to leverage my knowledge and contribute effectively to innovative projects in a collaborative environment.
+Data Scientist ingtern at @holbox.ai  (07/04/2025)
+Completed B-tech in cse-ai  from parul university vadodara 2025 passout 
 
 ## 🛠 Skills
 - Java
