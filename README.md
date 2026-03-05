@@ -1,60 +1,65 @@
-# Harshika Agarwal
+# Hi, I'm Harshika Agarwal 👋
 
-## 👩‍💻 About Me
-Data Scientist ingtern at @holbox.ai  (07/04/2025)
-Completed B-tech in cse-ai  from parul university vadodara 2025 passout 
+**Data Scientist** specializing in production-grade GenAI systems, agentic frameworks, and enterprise LLM applications.
 
-## 🛠 Skills
-- Java
-- Python
-- Machine Learning
-- Android Development
-- SQL (Structure Query Language)
-- DSA (Data Structures and Algorithms)
-- OOPS (Object-Oriented Programming)
-- pandas
-- numpy
-- matplotlib
-- seaborn 
-- Time Management
-- Leadership
-- Teamwork
+I build real-world AI products — from published PyPI packages to autonomous agent pipelines and AWS Marketplace deployments. Currently working at **Summertown AI**, contributing to enterprise AI toolkits and agentic automation platforms.
+
+---
+
+## 🚀 What I Work On
+
+- **Agentic AI** — Multi-step agent pipelines with tool calling, ReAct reasoning, and orchestration using AutoGen & CrewAI
+- **LLM Integration** — Multi-model routing across GPT-4, Claude, Gemini, and AWS Bedrock
+- **RAG & Semantic Search** — FAISS, CLIP embeddings, LangChain, LlamaIndex
+- **MLOps & Cloud** — AWS (S3, Bedrock, Rekognition, AgentCore), Docker, FastAPI, Terraform
+- **AI Product Development** — PyPI packaging, SDK architecture, CLI tools, Gradio/Streamlit interfaces
+
+---
+
+## 🏗️ Highlights
+
+- 🤖 **[NewberryAI](https://pypi.org/project/newberryai)** — Enterprise AI toolkit (PyPI) with modules for Healthcare, NL2SQL, PDF Intelligence, EDA, and more
+- 📦 **[newberry-metrics](https://pypi.org/project/newberry-metrics)** — Open-source Python package for monitoring AWS Bedrock LLM usage (token analytics, cost tracking)
+- 🌐 **Summarize Agent** — AI-powered summarization agent built with CrewAI & AWS AgentCore, deployed on [AWS Marketplace](https://aws.amazon.com/marketplace/pp/prodview-dztyjari4sfvc)
+- 🕹️ **Mach11 — Agentic Browser** — Autonomous browser automation platform; benchmarked on WebArena, WebVoyager & OsWorld
+- 🔍 **Multimodal Image Search** — Scalable semantic image retrieval using CLIP + FAISS with S3 indexing
+
+---
+
+## 🛠️ Tech Stack
+
+```
+Languages      → Python, SQL, Java, JavaScript, HTML/CSS
+LLM & GenAI    → OpenAI GPT-4, Anthropic Claude, Gemini, AWS Bedrock
+                 LangChain, LlamaIndex, AutoGen, CrewAI, ReAct, Tool Calling
+AI / ML        → Machine Learning, Deep Learning, NLP, Computer Vision, EDA
+Cloud & Infra  → AWS (S3, Rekognition, Bedrock, IAM, AgentCore), GCP, Docker, FastAPI, Terraform
+Vector Search  → FAISS, CLIP Embeddings, Semantic Search
+Tools          → Streamlit, Gradio, PyPI Packaging, Git, CLI Development
+```
+
+---
+
+## 🏆 Achievements
+
+- 🎤 Represented **Mach11** as core contributor at **IIMA Summit** (Jan. 2026)
+- 🚀 Built AI agent listed on **AWS Marketplace** — publicly available enterprise product
+- 📦 Published **2 open-source Python packages** on PyPI
+- 💡 Built a social awareness app at a **36-hour hackathon** (PU-CODE, March 2024)
+- ✅ **HashiCorp Terraform Associate (004)** certified — Feb. 2026
+- 📜 **NPTEL Software Engineering** — IIT Kharagpur, 2023
+
+---
 
 ## 🎓 Education
-- **BTech in Computer Science**
-  Parul University, Vadodara, Gujarat
-  Current CGPA: 7.66
-  2021 - 2025 (Pursuing)
 
-- **12th Grade**
-  KS Lodha Public School, Pali, Rajasthan (CBSE)
-  Percentage: 73.2
-  2020 - 2021
+**B.Tech in Computer Science (Artificial Intelligence)**
+Parul University, Vadodara — CGPA: 7.85 | 2021–2025
 
-- **10th Grade**
-  Emmanuel Mission School, Pali, Rajasthan (RBSE)
-  Percentage: 77.50
-  2018 - 2019
+---
 
-     
+## 📫 Let's Connect
 
-## 🏆 Achievements & Certifications
-- Participated in PU-CODE HACKATHON (36-hour event)
-  - Project: Civic-Bullets (a social working app)
-  - Date: 14-15 March 2024
-
-- Completed NPTEL course on Software Engineering by IIT Kharagpur
-  - 12-week course
-  - July - October 2023
-
-- Participated in AI tools workshop by be10x
-  - Date: 11 April 2024
-
-- Completed SQL course by Great Learning
-
-## 📫 How to reach me
-- Email: iharshikaagarwal@gmail.com
-- LinkedIn: [harshikaagarwal88](https://www.linkedin.com/in/harshikaagarwal88)
-- Location: Khodiyar Nagar, Vadodara
-
-Feel free to explore my repositories and don't hesitate to reach out for collaborations or queries!
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-harshikaagarwal88-blue?style=flat&logo=linkedin)](https://linkedin.com/in/harshikaagarwal88)
+[![GitHub](https://img.shields.io/badge/GitHub-iharshikaagarwal-black?style=flat&logo=github)](https://github.com/iharshikaagarwal)
+[![Email](https://img.shields.io/badge/Email-iharshikaagarwal@gmail.com-red?style=flat&logo=gmail)](mailto:iharshikaagarwal@gmail.com)
