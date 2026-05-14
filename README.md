@@ -14,15 +14,6 @@ I build real-world AI products — from published PyPI packages to autonomous ag
 - **MLOps & Cloud** — AWS (S3, Bedrock, Rekognition, AgentCore), Docker, FastAPI, Terraform
 - **AI Product Development** — PyPI packaging, SDK architecture, CLI tools, Gradio/Streamlit interfaces
 
----
-
-## 🏗️ Highlights
-
-- 🤖 **[NewberryAI](https://pypi.org/project/newberryai)** — Enterprise AI toolkit (PyPI) with modules for Healthcare, NL2SQL, PDF Intelligence, EDA, and more
-- 📦 **[newberry-metrics](https://pypi.org/project/newberry-metrics)** — Open-source Python package for monitoring AWS Bedrock LLM usage (token analytics, cost tracking)
-- 🌐 **Summarize Agent** — AI-powered summarization agent built with CrewAI & AWS AgentCore, deployed on [AWS Marketplace](https://aws.amazon.com/marketplace/pp/prodview-dztyjari4sfvc)
-- 🕹️ **Mach11 — Agentic Browser** — Autonomous browser automation platform; benchmarked on WebArena, WebVoyager & OsWorld
-- 🔍 **Multimodal Image Search** — Scalable semantic image retrieval using CLIP + FAISS with S3 indexing
 
 ---
 
