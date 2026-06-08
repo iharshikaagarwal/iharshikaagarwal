@@ -33,10 +33,13 @@ Tools          → Streamlit, Gradio, PyPI Packaging, Git, CLI Development
 
 ## 🏆 Achievements
 
-- 🎤 Represented **Mach11** as core contributor at **IIMA Summit** (Jan. 2026)
+- 🎤 Represented projects as core contributor at **IIMA Summit** (Jan. 2026)
 - 🚀 Built AI agent listed on **AWS Marketplace** — publicly available enterprise product
 - 📦 Published **2 open-source Python packages** on PyPI
 - 💡 Built a social awareness app at a **36-hour hackathon** (PU-CODE, March 2024)
+
+
+
 - ✅ **HashiCorp Terraform Associate (004)** certified — Feb. 2026
 - 📜 **NPTEL Software Engineering** — IIT Kharagpur, 2023
 
