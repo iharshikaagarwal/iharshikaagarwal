@@ -2,7 +2,7 @@
 
 **Data Scientist** specializing in production-grade GenAI systems, agentic frameworks, and enterprise LLM applications.
 
-I build real-world AI products — from published PyPI packages to autonomous agent pipelines and AWS Marketplace deployments. Currently working at **Summertown AI**, contributing to enterprise AI toolkits and agentic automation platforms.
+I build real-world AI products — from published PyPI packages to autonomous agent pipelines , contributing to enterprise AI toolkits and agentic automation platforms.
 
 ---
 
